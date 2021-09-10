@@ -1,0 +1,13 @@
+{
+  "commitMessage": "twtmiss for MBP 16: {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoSaveInterval": 60,
+  "autoPullInterval": 60,
+  "autoPullOnBoot": true,
+  "disablePush": true,
+  "pullBeforePush": true,
+  "disablePopups": false,
+  "listChangedFilesInMessageBody": false,
+  "showStatusBar": true,
+  "updateSubmodules": false
+}
