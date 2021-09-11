@@ -7,8 +7,11 @@
         "id": "a2ffb517d4d626c3",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Daily Note/2021-09-11.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Note/2021-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Note/2021-09-11.md"
+              }
             }
           },
           {
@@ -109,6 +115,7 @@
   },
   "active": "a2ffb517d4d626c3",
   "lastOpenFiles": [
+    "Daily Note/2021-09-11.md",
     "面试/在面试中被问到的题.md",
     "面试/Java面试题.md",
     "Java后端.md",
