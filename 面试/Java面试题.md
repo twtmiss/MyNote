@@ -38,3 +38,4 @@
 - 反射
 - equals重写hashcode，为什么
 - java 堆和栈
+- ## [面试官：生成订单30分钟未支付，则自动取消，该怎么实现？](https://zhuanlan.zhihu.com/p/408788587)
