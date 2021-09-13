@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/Java基础.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java基础.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java基础.md"
+                "file": "README.md"
               }
             }
           },
@@ -115,8 +115,8 @@
   },
   "active": "a2ffb517d4d626c3",
   "lastOpenFiles": [
-    "Java/Java基础.md",
     "README.md",
+    "Java/Java基础.md",
     "Daily Note/2021-09-13.md",
     "Java/未命名.md",
     "Java/多线程.md",
