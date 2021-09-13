@@ -6,13 +6,28 @@
       {
         "id": "a2ffb517d4d626c3",
         "type": "leaf",
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Java/Java基础.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "da125875dcd196c3"
+      },
+      {
+        "id": "21f08d2973b19886",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Java/Java基础.md",
+            "mode": "preview"
+          }
+        },
+        "group": "da125875dcd196c3"
       }
     ],
     "direction": "vertical"
@@ -68,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Java/Java基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Java/Java基础.md"
               }
             }
           },
@@ -114,14 +129,14 @@
   },
   "active": "a2ffb517d4d626c3",
   "lastOpenFiles": [
-    "README.md",
     "Java/Java基础.md",
-    "Daily Note/2021-09-13.md",
-    "Spring 学习笔记/Spring Http请求.md",
-    "Spring 学习笔记/SptringBoot项目配置Https.md",
     "Spring 学习笔记/IOC 控制反转.md",
     "Spring 学习笔记/DI 依赖注入.md",
     "Spring 学习笔记/AOP 面向切面.md",
+    "Spring 学习笔记/Spring Http请求.md",
+    "Spring 学习笔记/SptringBoot项目配置Https.md",
+    "README.md",
+    "Daily Note/2021-09-13.md",
     "Java/未命名.md",
     "Java/多线程.md"
   ]
