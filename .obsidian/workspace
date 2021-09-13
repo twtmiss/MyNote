@@ -6,24 +6,11 @@
       {
         "id": "a2ffb517d4d626c3",
         "type": "leaf",
-        "dimension": 51.91335740072203,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Java/Java基础.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "6434774f4ea6f86b",
-        "type": "leaf",
-        "dimension": 48.08664259927798,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Java/Java基础.md",
-            "mode": "preview"
           }
         }
       }
@@ -129,14 +116,14 @@
   "active": "a2ffb517d4d626c3",
   "lastOpenFiles": [
     "Java/Java基础.md",
+    "README.md",
+    "Daily Note/2021-09-13.md",
     "Java/未命名.md",
     "Java/多线程.md",
     "Java/IO流.md",
     "Java/集合.md",
     "Java/Java后端.md",
-    "README.md",
     "Daily Note/2021-09-11.md",
-    "面试/Java面试题.md",
-    "面试/在面试中被问到的题.md"
+    "面试/Java面试题.md"
   ]
 }
