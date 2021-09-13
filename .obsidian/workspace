@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Java/Java基础.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Java/Java基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Java/Java基础.md"
               }
             }
           },
@@ -114,9 +114,9 @@
   },
   "active": "a2ffb517d4d626c3",
   "lastOpenFiles": [
+    "Java/Java基础.md",
     "README.md",
     "Daily Note/2021-09-13.md",
-    "Java/Java基础.md",
     "Spring 学习笔记/Spring Http请求.md",
     "Spring 学习笔记/SptringBoot项目配置Https.md",
     "Spring 学习笔记/IOC 控制反转.md",
