@@ -3,5 +3,6 @@
   "showFrontmatter": true,
   "showLineNumber": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./assest"
+  "attachmentFolderPath": "./assest",
+  "promptDelete": false
 }
