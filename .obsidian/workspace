@@ -4,30 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "a2ffb517d4d626c3",
+        "id": "d778c60e82bf96bb",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Note/2021-11-09.md",
+            "file": "MySQL/未命名.md",
             "mode": "source"
           }
-        },
-        "group": "da125875dcd196c3"
+        }
       },
       {
-        "id": "21f08d2973b19886",
+        "id": "c87ef6e470f5e1cc",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Note/2021-11-09.md",
+            "file": "MySQL/未命名.md",
             "mode": "preview"
           }
-        },
-        "group": "da125875dcd196c3"
+        }
       }
     ],
     "direction": "vertical"
@@ -83,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2021-11-09.md",
+                "file": "MySQL/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2021-11-09.md"
+                "file": "MySQL/未命名.md"
               }
             }
           },
@@ -120,25 +116,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "a2ffb517d4d626c3",
+  "active": "c87ef6e470f5e1cc",
   "lastOpenFiles": [
-    "Daily Note/2021-11-09.md",
     "MySQL/未命名.md",
-    "Daily Note/2021-10-19.md",
-    "Daily Note/2021-10-08.md",
-    "Daily Note/2021-09-25.md",
-    "Daily Note/2021-09-24.md",
-    "Java/Java基础.md",
+    "MySQL/assest/Pasted image 20211019150406.png",
     "Spring 学习笔记/SptringBoot项目配置Https.md",
-    "Daily Note/2021-09-13.md",
-    "Spring 学习笔记/IOC 控制反转.md"
+    "Spring 学习笔记/Spring Http请求.md",
+    "Spring 学习笔记/IOC 控制反转.md",
+    "Spring 学习笔记/DI 依赖注入.md",
+    "Spring 学习笔记/AOP 面向切面.md",
+    "Daily Note/2021-11-24.md",
+    "Daily Note/2021-11-09.md",
+    "Daily Note/2021-10-19.md"
   ]
 }
