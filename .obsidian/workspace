@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MySQL/未命名.md",
-            "mode": "preview"
+            "file": "Daily Note/2021-12-25.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/未命名.md",
+                "file": "Daily Note/2021-12-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/未命名.md"
+                "file": "Daily Note/2021-12-25.md"
               }
             }
           },
@@ -125,6 +125,7 @@
   },
   "active": "c87ef6e470f5e1cc",
   "lastOpenFiles": [
+    "Daily Note/2021-12-25.md",
     "MySQL/未命名.md",
     "MySQL/assest/Pasted image 20211019150406.png",
     "Spring 学习笔记/SptringBoot项目配置Https.md",
@@ -133,7 +134,6 @@
     "Spring 学习笔记/DI 依赖注入.md",
     "Spring 学习笔记/AOP 面向切面.md",
     "Daily Note/2021-11-24.md",
-    "Daily Note/2021-11-09.md",
-    "Daily Note/2021-10-19.md"
+    "Daily Note/2021-11-09.md"
   ]
 }
