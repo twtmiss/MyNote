@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MySQL/未命名.md",
+            "file": "Linux/Linux目录结构.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/未命名.md",
+                "file": "Linux/Linux目录结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/未命名.md"
+                "file": "Linux/Linux目录结构.md"
               }
             }
           },
@@ -118,6 +118,7 @@
   },
   "active": "d778c60e82bf96bb",
   "lastOpenFiles": [
+    "Linux/Linux目录结构.md",
     "MySQL/未命名.md",
     "Daily Note/2021-12-26.md",
     "Daily Note/2021-12-25.md",
@@ -126,7 +127,6 @@
     "Spring 学习笔记/Spring Http请求.md",
     "Spring 学习笔记/IOC 控制反转.md",
     "Spring 学习笔记/DI 依赖注入.md",
-    "Spring 学习笔记/AOP 面向切面.md",
-    "Daily Note/2021-11-24.md"
+    "Spring 学习笔记/AOP 面向切面.md"
   ]
 }
