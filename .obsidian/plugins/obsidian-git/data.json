@@ -1,8 +1,8 @@
 {
   "commitMessage": "twtmiss for MBP 16: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 10,
-  "autoPullInterval": 10,
+  "autoSaveInterval": 60,
+  "autoPullInterval": 60,
   "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
@@ -10,8 +10,9 @@
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
+  "syncMethod": "merge",
   "gitPath": "",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
-  "mergeOnPull": true
+  "treeStructure": false
 }
