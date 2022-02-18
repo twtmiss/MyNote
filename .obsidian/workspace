@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MySQL/关闭 ONLY_FULL_GROUP_BY.md",
+            "file": "Nginx/Nginx 安装.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MySQL/关闭 ONLY_FULL_GROUP_BY.md",
+            "file": "Nginx/Nginx 安装.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/关闭 ONLY_FULL_GROUP_BY.md",
+                "file": "Nginx/Nginx 安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/关闭 ONLY_FULL_GROUP_BY.md"
+                "file": "Nginx/Nginx 安装.md"
               }
             }
           },
@@ -120,8 +120,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d778c60e82bf96bb",
+  "active": "477e20ea5d4843d5",
   "lastOpenFiles": [
+    "Nginx/Nginx 安装.md",
+    "Nginx/常见问题.md",
     "MySQL/关闭 ONLY_FULL_GROUP_BY.md",
     "MySQL/如果存在就更新，否则插入.md",
     "Spring 学习笔记/未命名.md",
@@ -129,8 +131,6 @@
     "Linux/目录结构.md",
     "TDengine/导入导出数据.md",
     "TDengine/安装.md",
-    "MySQL/MySQl 使用中遇到的一些问题.md",
-    "MySQL/修改数据库编码.md",
-    "Daily Note/2021-12-26.md"
+    "MySQL/MySQl 使用中遇到的一些问题.md"
   ]
 }
