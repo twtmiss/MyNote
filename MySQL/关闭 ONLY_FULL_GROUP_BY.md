@@ -9,6 +9,10 @@
 #### 1. 首先查看MySQL所使用的配置文件
 - 执行命令```mysql --help|grep 'my.cnf'```，使用的配置文件应该是```/etc/my.cnf```，对此配置文件进行编辑。
 
+```
+STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION 
+```
+
 	![[Pasted image 20211019150406.png]]
 
 #### 2.编辑配置文件
