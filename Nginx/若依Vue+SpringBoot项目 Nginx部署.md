@@ -9,7 +9,7 @@
 - mode 修改为 `history`
 - base(如果没有，新增该参数) 修改为`/rixin`
 
-```
+```js
 export default new Router({  
   mode: 'history', // 去掉url中的#  
   base: '/rixin',  
@@ -22,7 +22,7 @@ export default new Router({
 
 publicPath需要改为`"production"？"/你的文件夹名称/":"/"`
 
-```
+```js
 publicPath: process.env.NODE_ENV === "production" ? "/rixin" : "/",
 ```
 
@@ -32,7 +32,7 @@ publicPath: process.env.NODE_ENV === "production" ? "/rixin" : "/",
 
 解决刷新404问题：`try_files $uri $uri/ /rixin/index.html;`
 
-```conf
+```
 location /rixin {
 
 	alias /Users/twtmiss/otherFiles/nginx_static/rixin/;
@@ -44,7 +44,7 @@ location /rixin {
 }
 ```
 
-** 2.后端请求转发**
+**2.后端请求转发**
 
 `proxy_pass`：配置后端的ip和端口
 

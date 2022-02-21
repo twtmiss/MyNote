@@ -4,5 +4,6 @@
   "showLineNumber": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./assest",
-  "promptDelete": false
+  "promptDelete": false,
+  "legacyEditor": false
 }
