@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nginx/若依Vue+SpringBoot项目 Nginx部署.md",
+            "file": "Java/Jar包后台运行.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/若依Vue+SpringBoot项目 Nginx部署.md",
+                "file": "Java/Jar包后台运行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx/若依Vue+SpringBoot项目 Nginx部署.md"
+                "file": "Java/Jar包后台运行.md"
               }
             }
           },
@@ -108,6 +108,7 @@
   },
   "active": "00b2ec4cdfeac88d",
   "lastOpenFiles": [
+    "Java/Jar包后台运行.md",
     "Nginx/若依Vue+SpringBoot项目 Nginx部署.md",
     "Spring 学习笔记/Spring Http请求.md",
     "Spring 学习笔记/IOC 控制反转.md",
@@ -116,7 +117,6 @@
     "MySQL/关闭 ONLY_FULL_GROUP_BY.md",
     "Nginx/常见问题.md",
     "Nginx/Nginx 安装.md",
-    "Spring 学习笔记/未命名.md",
-    "Linux/常用命令.md"
+    "Spring 学习笔记/未命名.md"
   ]
 }
