@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spring 学习笔记/常见问题.md",
+            "file": "TDengine/安装.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring 学习笔记/常见问题.md",
+                "file": "TDengine/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring 学习笔记/常见问题.md"
+                "file": "TDengine/安装.md"
               }
             }
           },
@@ -108,6 +108,7 @@
   },
   "active": "a479eb4617e8c379",
   "lastOpenFiles": [
+    "TDengine/安装.md",
     "Spring 学习笔记/常见问题.md",
     "MySQL/如果存在就更新，否则插入.md",
     "MySQL/修改数据库编码.md",
@@ -116,7 +117,6 @@
     "Nginx/Nginx 安装.md",
     "Nginx/常见问题.md",
     "Nginx/若依Vue+SpringBoot项目 Nginx部署.md",
-    "Linux/目录结构.md",
-    "Linux/常用命令.md"
+    "Linux/目录结构.md"
   ]
 }
