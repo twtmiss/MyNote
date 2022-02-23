@@ -5,5 +5,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./assest",
   "promptDelete": false,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "livePreview": true
 }
