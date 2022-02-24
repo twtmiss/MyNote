@@ -6,14 +6,28 @@
       {
         "id": "a479eb4617e8c379",
         "type": "leaf",
+        "dimension": 80.16528925619835,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/Jar包后台运行.md",
+            "file": "Nginx/Nginx常用命令.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "1d814a0f1e6d6e7e"
+      },
+      {
+        "id": "aa58a70b1f490b53",
+        "type": "leaf",
+        "dimension": 19.834710743801654,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Nginx/Nginx常用命令.md"
+          }
+        },
+        "group": "1d814a0f1e6d6e7e"
       }
     ],
     "direction": "vertical"
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Jar包后台运行.md",
+                "file": "Nginx/Nginx常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Jar包后台运行.md"
+                "file": "Nginx/Nginx常用命令.md"
               }
             }
           },
@@ -108,15 +122,15 @@
   },
   "active": "a479eb4617e8c379",
   "lastOpenFiles": [
+    "Nginx/Nginx常用命令.md",
+    "Nginx/Nginx 安装.md",
+    "Linux/指定ip访问.md",
+    "TDengine/导入导出数据.md",
     "Java/Jar包后台运行.md",
     "Spring 学习笔记/常见问题.md",
     "TDengine/安装.md",
     "MySQL/如果存在就更新，否则插入.md",
     "MySQL/修改数据库编码.md",
-    "MySQL/MySQl 使用中遇到的一些问题.md",
-    "MySQL/关闭 ONLY_FULL_GROUP_BY.md",
-    "Nginx/Nginx 安装.md",
-    "Nginx/常见问题.md",
-    "Nginx/若依Vue+SpringBoot项目 Nginx部署.md"
+    "MySQL/MySQl 使用中遇到的一些问题.md"
   ]
 }
