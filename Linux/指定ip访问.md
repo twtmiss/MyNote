@@ -2,7 +2,7 @@
 
 一、拒绝所有IP访问27701端口
 
-`sudo iptables -I INPUT -p tcp --dport 27701-j DROP`
+`sudo iptables -I INPUT -p tcp --dport 27701 -j DROP`
 
 二、允许某个IP访问27701端口
 
