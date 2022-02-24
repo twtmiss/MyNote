@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nginx/Nginx常用命令.md",
+            "file": "Linux/指定ip访问.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Nginx/Nginx常用命令.md"
+            "file": "Linux/指定ip访问.md"
           }
         },
         "group": "1d814a0f1e6d6e7e"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/Nginx常用命令.md",
+                "file": "Linux/指定ip访问.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx/Nginx常用命令.md"
+                "file": "Linux/指定ip访问.md"
               }
             }
           },
@@ -122,9 +122,9 @@
   },
   "active": "a479eb4617e8c379",
   "lastOpenFiles": [
+    "Linux/指定ip访问.md",
     "Nginx/Nginx常用命令.md",
     "Nginx/Nginx 安装.md",
-    "Linux/指定ip访问.md",
     "TDengine/导入导出数据.md",
     "Java/Jar包后台运行.md",
     "Spring 学习笔记/常见问题.md",
