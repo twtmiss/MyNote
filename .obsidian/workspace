@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "a479eb4617e8c379",
+        "id": "e2bbba69ce30e599",
         "type": "leaf",
-        "dimension": 80.16528925619835,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,20 +13,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "1d814a0f1e6d6e7e"
-      },
-      {
-        "id": "aa58a70b1f490b53",
-        "type": "leaf",
-        "dimension": 19.834710743801654,
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Git/Mac下配置多Git账户.md"
-          }
-        },
-        "group": "1d814a0f1e6d6e7e"
+        }
       }
     ],
     "direction": "vertical"
@@ -120,7 +106,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a479eb4617e8c379",
+  "active": "e2bbba69ce30e599",
   "lastOpenFiles": [
     "Git/Mac下配置多Git账户.md",
     "Linux/指定ip访问.md",
