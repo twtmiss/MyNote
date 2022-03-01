@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Mac下配置多Git账户.md",
+            "file": "idea/项目上传至svn.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Mac下配置多Git账户.md",
+                "file": "idea/项目上传至svn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Mac下配置多Git账户.md"
+                "file": "idea/项目上传至svn.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "e2bbba69ce30e599",
   "lastOpenFiles": [
+    "idea/项目上传至svn.md",
+    "面试/Spring.md",
+    "面试/Java.md",
+    "面试/Java面试题.md",
+    "面试/数据库.md",
+    "面试/在面试中被问到的题.md",
     "Git/Mac下配置多Git账户.md",
     "Linux/指定ip访问.md",
     "TDengine/导入导出数据.md",
-    "TDengine/安装.md",
-    "Nginx/Nginx常用命令.md",
-    "Nginx/Nginx 安装.md",
-    "Java/Jar包后台运行.md",
-    "Spring 学习笔记/常见问题.md",
-    "MySQL/如果存在就更新，否则插入.md",
-    "MySQL/修改数据库编码.md"
+    "TDengine/安装.md"
   ]
 }

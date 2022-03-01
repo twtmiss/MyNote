@@ -1,4 +1,30 @@
-- Java三大基本特性
+  ##### HashMap和HashTable区别
+  - java流，读取一个文件，在控制台输出文件中第一行的信息
+  - 异常
+    - 哪些异常
+    - 手动抛出异常
+  - 多线程、锁
+    - 创建多线程
+    - 多个synchronized嵌套
+  - 定义一个java.lang.String类，可以定义吗
+    - 可以定义，但没办法引用
+  - 有哪些线程安全的集合
+  - String、StringBuilder、StringBuffer区别，底层实现
+  - String的equals方法
+  - collection容器有哪些
+  - Hashtable实现
+  - HashMap实现，线程安全的Map集合
+  - 线程池
+  - HashMap 底层实现、扩容
+  - ArrayList 底层实现、扩容
+  - 集合
+  - 多线程实现方式
+  - 反射
+  - 三大特性
+  - equals重写hashcode，为什么
+  - == 和 equals
+  - java 堆和栈
+- - Java三大基本特性
 - == 和 equals 的区别
 - 定义一个java.lang.String类，可以定义吗
   - 可以定义，但没办法引用
@@ -38,4 +64,3 @@
 - 反射
 - equals重写hashcode，为什么
 - java 堆和栈
-- ## [面试官：生成订单30分钟未支付，则自动取消，该怎么实现？](https://zhuanlan.zhihu.com/p/408788587)
