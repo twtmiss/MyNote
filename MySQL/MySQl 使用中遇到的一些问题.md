@@ -13,7 +13,8 @@ device_name字段为varhcar类型，使用以下排序。有中文也可以用
 
 **MySQL 5.7以上方法就无效了，用一下方法**
 
-sid.device_name 
+`sid.device_name`值为 `逆变器 #1`，从第6个也就是#后一位数字开始排序
+
 `order by substr(sid.device_name from 6) - 0 asc`
 
 ```
