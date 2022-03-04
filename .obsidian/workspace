@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "TDengine/安装.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "TDengine/安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "TDengine/安装.md"
               }
             }
           },
@@ -108,6 +108,8 @@
   },
   "active": "e2bbba69ce30e599",
   "lastOpenFiles": [
+    "TDengine/安装.md",
+    "TDengine/导入导出数据.md",
     "README.md",
     "面试/在面试中被问到的题.md",
     "MySQL/关闭 ONLY_FULL_GROUP_BY.md",
@@ -115,8 +117,6 @@
     "MySQL/修改数据库编码.md",
     "Java/Jar包后台运行.md",
     "Nginx/若依Vue+SpringBoot项目 Nginx部署.md",
-    "idea/项目上传至svn.md",
-    "面试/Spring.md",
-    "面试/Java.md"
+    "idea/项目上传至svn.md"
   ]
 }
