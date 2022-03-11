@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MySQL/修改数据库编码.md",
+            "file": "MySQL/数据导入导出.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/修改数据库编码.md",
+                "file": "MySQL/数据导入导出.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/修改数据库编码.md"
+                "file": "MySQL/数据导入导出.md"
               }
             }
           },
@@ -108,6 +108,7 @@
   },
   "active": "e2bbba69ce30e599",
   "lastOpenFiles": [
+    "MySQL/数据导入导出.md",
     "MySQL/修改数据库编码.md",
     "TDengine/安装.md",
     "Linux/常用命令.md",
@@ -116,7 +117,6 @@
     "面试/在面试中被问到的题.md",
     "MySQL/关闭 ONLY_FULL_GROUP_BY.md",
     "MySQL/MySQl 使用中遇到的一些问题.md",
-    "Java/Jar包后台运行.md",
-    "Nginx/若依Vue+SpringBoot项目 Nginx部署.md"
+    "Java/Jar包后台运行.md"
   ]
 }
