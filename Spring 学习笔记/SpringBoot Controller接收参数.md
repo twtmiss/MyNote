@@ -1,14 +1,14 @@
 #### 同时接收json和文件
 
+后端controller
 ```
-/**  
- * 修改电站  
- */  
-//    @PreAuthorize("@ss.hasPermi('sarnath:station:edit')")  
-@Log(title = "电站", businessType = BusinessType.UPDATE)  
 @PostMapping("/updateStation")  
 public AjaxResult updateStation(@RequestPart("uploadFileList") List<MultipartFile> uploadFileList, @RequestPart("station") Station station)  
 {  
-    return Ajaxresult.su;  
+    return AjaxResult.success();  
 }
 ```
+
+前端发送请求使用`form-data`格式发送，json字段`content type`需标注为`application/json`
+
+![[Pasted image 20220315143135.png]]
