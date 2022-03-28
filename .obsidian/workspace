@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vue/部署.md",
+            "file": "Redis/Redis安装.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/部署.md",
+                "file": "Redis/Redis安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue/部署.md"
+                "file": "Redis/Redis安装.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "e2bbba69ce30e599",
   "lastOpenFiles": [
-    "Vue/部署.md",
-    "TDengine/安装.md",
-    "Java/Jar包后台运行.md",
-    "Linux/常用命令.md",
     "Redis/Redis安装.md",
     "Nginx/若依Vue+SpringBoot项目 Nginx部署.md",
     "Nginx/Nginx常用命令.md",
-    "MySQL/关闭 ONLY_FULL_GROUP_BY.md",
-    "MySQL/Mysql8 root用户远程连接.md",
-    "MySQL/mysql8修改用户名密码.md"
+    "Nginx/Nginx 安装.md",
+    "Java/Jar包后台运行.md",
+    "Java/Java基础.md",
+    "TDengine/导入导出数据.md",
+    "Vue/部署.md",
+    "TDengine/安装.md",
+    "Linux/常用命令.md"
   ]
 }
