@@ -63,3 +63,9 @@ location /prod-api/ {
 
 }
 ```
+
+**注意**
+应用nginx修改
+```
+nginx -s reload
+```
