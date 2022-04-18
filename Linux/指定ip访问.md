@@ -12,7 +12,7 @@
 
 `sudo iptables -L -n`
 
-![[Pasted image 20220224134631.png]]
+![Pasted image 20220224134631.png](assest/Pasted image 20220224134631.png)
 
 删除iptables 策略的命令
 
@@ -22,4 +22,4 @@ num 是 使用命令查看出来的数值
 
 `iptables -L -n --line-numbers`
 
-![[Pasted image 20220224140051.png]]
+![Pasted image 20220224140051.png](assest/Pasted image 20220224140051.png)
