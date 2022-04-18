@@ -11,8 +11,10 @@
 ```
 SELECT @@GLOBAL.sql_mode;
 ```
-![[Pasted image 20220316181421.png]]
+![20220316181421.png](assest/Pasted image 20220316181421.png)
+
 将查到的值复制，并删除掉`ONLY_FULL_GROUP_BY,`
+
 ```
 原先：
 ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
@@ -43,5 +45,5 @@ STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_A
 #### 3. 重启MySQL服务
 ```      
  sudo /usr/local/mysql-8.0.23-macos10.15-x86_64/support-files/mysql.server restart
- ```
+```
 

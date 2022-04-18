@@ -6,7 +6,8 @@
 
 ### 4. varchar排序
 
-**MySQL8.0可以用一下方法**
+**MySQL8.0可以用以下方法**
+
 device_name字段为varhcar类型，使用以下排序。有中文也可以用
 
 `order by dayData.device_name+0`
