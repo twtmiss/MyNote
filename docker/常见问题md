@@ -1,4 +1,15 @@
+
+
+### 获取docker宿主机ip
+
+进入到docker容器里运行以下命令
+
+```
+ping host.docker.internal
+```
+
 ### 运行docker镜像
+
 ```
 docker run1 -d -p 6030-6049:6030-6049 -p 6030-6049:6030-6049/udp tdengine/tdengine
 
